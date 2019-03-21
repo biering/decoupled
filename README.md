@@ -1,3 +1,3 @@
 # Swift Component
 
-> A collection of best practices to use views as components in Swift
+> a collection of best practices to load views and view controller component based in Swift
